@@ -1,7 +1,5 @@
 This app is a Trello-like app where you can create lists and cards for task management. 
 
-DEMO: https://kaylajaograham.github.io/trelloyes/
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
