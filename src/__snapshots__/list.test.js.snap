@@ -1,18 +1,18 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`list component renders the UI as expected 1`] = `
-<main
-  className="App"
+<section
+  className="List"
 >
   <header
-    className="App-header"
+    className="List-header"
   >
-    <h1>
-      Trelloyes!
-    </h1>
+    <h2>
+      Test Header
+    </h2>
   </header>
   <div
-    className="App-list"
+    className="List-cards"
   />
-</main>
+</section>
 `;
