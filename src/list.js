@@ -2,6 +2,7 @@ import React from 'react';
 import Card from './card.js'
 import './list.css';
 
+
 export default function List(props) {
   return (
     <section className='List'>
