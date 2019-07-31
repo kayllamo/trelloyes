@@ -4,6 +4,12 @@ exports[`card component renders the UI as expected 1`] = `
 <div
   className="Card"
 >
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    Delete Card
+  </button>
   <h3>
     Title
   </h3>

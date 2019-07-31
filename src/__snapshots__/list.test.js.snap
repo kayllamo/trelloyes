@@ -13,6 +13,13 @@ exports[`list component renders the UI as expected 1`] = `
   </header>
   <div
     className="List-cards"
-  />
+  >
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Add Random Card
+    </button>
+  </div>
 </section>
 `;
